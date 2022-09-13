@@ -509,7 +509,8 @@ export default class Shop extends Component {
           </div>
           {/* Footer End */}
         </div>
-
+        {/* Back to Top */}
+        <a href="#" className="btn btn-primary back-to-top"><i className="fa fa-angle-double-up" /></a>
       </>
     )
   }
