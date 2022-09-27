@@ -79,6 +79,7 @@
   color: $custom-control-label-color;
   vertical-align: top;
   cursor: $custom-control-cursor;
+  text-transform: uppercase;
 
   // Background-color and (when enabled) gradient
   &::before {
